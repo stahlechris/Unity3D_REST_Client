@@ -323,7 +323,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f572f837a6a104beb8654ac82902cd95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  WEB_URL: https://localhost:5001/api/players/
+  WEB_URL: https://192.168.1.8:5000/api/players/
 --- !u!4 &1730199589
 Transform:
   m_ObjectHideFlags: 0

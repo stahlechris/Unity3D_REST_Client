@@ -1,5 +1,6 @@
 ﻿namespace Microsoft.Azure.Kinect.Sensor.BodyTracking
 {
+    [System.Serializable]
     public enum JointId
     {
         Pelvis = 0, SpineNaval, SpineChest, Neck,

@@ -3,5 +3,5 @@
 [System.Serializable]
 public class PlayerList
 {
-    public List<Player> players;
+    public List<Player> players { get; set; }
 }
